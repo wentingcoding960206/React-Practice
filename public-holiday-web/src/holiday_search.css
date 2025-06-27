@@ -1,0 +1,15 @@
+.custom-input {
+  width: 40%;
+  min-width: 400px;
+  padding: 10px;
+  font-size: 16px;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+  margin-right: 20px;
+}
+
+.custom-input::placeholder {
+  color: gray;
+  font-style: italic;
+  opacity: 1;
+}
